@@ -1,4 +1,4 @@
-It is a simple SSIS Project Where new data is coming on daily bases so, We have to automate the process a cycle with following processes as per the client's requirements:-
+It is a simple SSIS Project Where new data is coming on daily bases so, We have to automate a data cycle with following processes as per the client's requirements:-
   1. Load data from source file into MS SQL database
   2. Rename the new files as per company's naming convention
   3. After the end of data lifecycle, move the file into Archive folder
